@@ -1,18 +1,22 @@
 ## Hi there 👋
-# <a href="www.linkedin.com/in/hamish-d-8b242b70">Hamish Dean</a>'s IT and Cybersecurity Project Portfolio 
+# <a href="www.linkedin.com/in/hamish-dean-grc">Hamish Dean</a>'s IT and Cybersecurity Project Portfolio 
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]()**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[DISA STIG Remediations](https://github.com/hamishdean/hamishdean/blob/main/DISA%20STIG%20Remidiation)**
+- **[Vulnerability Remediations](https://github.com/hamishdean/hamishdean/blob/main/Vulnerability%20remdiation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting](https://github.com/hamishdean/hamishdean/blob/main/Threat%20Hunting)*
 
+## 🚨 Governance Risk and Complience 
+
+- **[GRC projects](https://github.com/hamishdean/hamishdean/blob/main/GRC%20Projects)*
+  
 <hr/>
 
 ## 🤳 Connect With Me
@@ -22,7 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 
-[linkedin]: www.linkedin.com/in/hamish-d-8b242b70
+[linkedin]: www.linkedin.com/in/hamish-dean-grc
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
