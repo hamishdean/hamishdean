@@ -11,11 +11,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting](https://github.com/hamishdean/hamishdean/blob/main/Threat%20Hunting)*
+- **[Threat Hunting](https://github.com/hamishdean/hamishdean/blob/main/Threat%20Hunting)**
 
-## 🚨 Governance Risk and Complience 
+## 🔐 Governance Risk and Complience 
 
-- **[GRC projects](https://github.com/hamishdean/hamishdean/blob/main/GRC%20Projects)*
+- **[GRC projects](https://github.com/hamishdean/hamishdean/blob/main/GRC%20Projects)**
   
 <hr/>
 
