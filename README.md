@@ -6,14 +6,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[DISA STIG Remediations](https://github.com/hamishdean/hamishdean/blob/main/DISA%20STIG%20Remidiation)**
-- **[Vulnerability Remediations](https://github.com/hamishdean/hamishdean/blob/main/Vulnerability%20remdiation)**
+- **[DISA STIG Remediations](https://github.com/hamishdean/hamishdean/blob/main/DISA%20STIG%20Remediation)**
+- **[Vulnerability Remediations](https://github.com/hamishdean/hamishdean/blob/main/Vulnerability%20remediation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting](https://github.com/hamishdean/hamishdean/blob/main/Threat%20Hunting)**
 
-## 🔐 Governance Risk and Complience 
+## 🔐 Governance Risk and Compliance 
 
 - **[GRC projects](https://github.com/hamishdean/hamishdean/blob/main/GRC%20Projects)**
   
