@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[DISA STIG Remediations](https://hamishdean.com/disa-stig-remediation/)**
-- **[Vulnerability Remediations](https://hamishdean.com/vulnerability-remediation/)**
+- **[Vulnerability Remediations](https://hamishdean.com/vulnerability-remediation-2/)**
 
 ## 🚨 Threat Hunting and Security Operations
 
