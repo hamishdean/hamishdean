@@ -16,6 +16,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🔐 Governance Risk and Compliance 
 
 - **[GRC projects](https://hamishdean.com/grc-projects/)**
+
+## Softwares
+- **[Python projects](https://hamishdean.com/software/)**
   
 <hr/>
 
